@@ -1,3 +1,5 @@
+#!/bin/sh
+
 GHE_TOKEN=$1
 
 curl -L \
