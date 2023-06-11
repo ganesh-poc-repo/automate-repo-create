@@ -9,7 +9,7 @@ on:
   #schedule:
   #  - cron: '59/2 * * * *'
 env:
-  GHE_TOKEN: ${{ secrets.GHE_TOKEN }}
+  GHE_TOKEN: "${{ secrets.GHE_TOKEN }}"
   
 jobs:
   build:
