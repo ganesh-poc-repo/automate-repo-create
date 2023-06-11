@@ -1,8 +1,6 @@
 #!/bin/sh
 
 TOKEN=$1
-echo "Test 123"
-echo $TOKEN
 
 # Create new repo
 
